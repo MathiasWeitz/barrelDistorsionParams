@@ -15,7 +15,7 @@ Motivation
 
 I have got a Actioncam (Contour1080) with a nasty distorsion. I have tested several programs for detorsion and found them all wanting.
 The main problem is, that i hardly get a straight line by pure visual estimation. Another problem is the lavish cropping.
-Imagemagick offers a very accurate detorsion, with a good control of cropping, but yoa have to know the parameters of your cam. And if you want to change the cropping, you even have different parameters. Especially for me, i noticed, that i get much more of the original image if i allow a little from the outside image to appear on the canvas, also i can crop the top and the bottom of the image and therefore change the ratio of the film.
+Imagemagick offers a very accurate detorsion, with a good control of cropping, but you have to know the parameters of your cam. And if you want to change the cropping, you even need different parameters. Especially for me, i noticed, that i get much more of the original image if i allow a little from the outside image to appear on the canvas, also i can crop the top and the bottom of the image and therefore change the ratio of the video.
 All this requires that i determine the correct parameters.
 
 The only program (i found) to determine the parameter is Hugin, but it is complicated to operate, take a lot of time, quite often fails with a result, and even if it delievers a result, it is sometimes not accurate. Also, i can not determine the parameter by a given zoom factor.
